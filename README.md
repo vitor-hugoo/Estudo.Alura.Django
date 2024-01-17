@@ -26,3 +26,6 @@
 <!-- python manage.py flush ## limpar banco -->
 
 <!-- python manage.py createsuperuser ## criar usuário admin -->
+
+
+
