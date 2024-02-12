@@ -1,5 +1,6 @@
 # Estudo.Django
- 
+
+<!-- # APLICAÇÃO ESCOLA -->
 
 <!-- python3 -m venv ./venv ## cria pasta venv -->
 
@@ -13,9 +14,9 @@
 
 <!-- ------------------------------------------------------------------------------------------------------------- -->
 
-<!-- django-admin startproject <nome do projeto> ## inicia projeto -->
+<!-- django-admin startproject <nome do projeto> . ## inicia projeto -->
 
-<!-- python manage.py startapp <nome do app> ## cria app -->
+<!-- django-admin startapp <nome do app> ## cria app -->
 
 <!-- python manage.py runserver ##rodar servidor -->
 
@@ -26,6 +27,3 @@
 <!-- python manage.py flush ## limpar banco -->
 
 <!-- python manage.py createsuperuser ## criar usuário admin -->
-
-
-
