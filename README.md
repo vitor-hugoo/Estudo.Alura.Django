@@ -1,6 +1,6 @@
 # Estudo.Django
 
-<!-- # APLICAÇÃO ESCOLA -->
+# APLICAÇÃO ESCOLA
 
 <!-- python3 -m venv ./venv ## cria pasta venv -->
 
