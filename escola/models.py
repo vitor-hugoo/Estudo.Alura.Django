@@ -12,6 +12,7 @@ class Aluno(models.Model):
     def __str__(self):
         return self.nome
 
+
 class Curso(models.Model):
     NIVEL = (
         ('B', 'Básico'),
@@ -24,6 +25,7 @@ class Curso(models.Model):
 
     def __str__(self):
         return self.descricao
+
 
 class Matricula(models.Model):
     PERIODO = (
